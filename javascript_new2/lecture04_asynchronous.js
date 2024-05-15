@@ -1,4 +1,5 @@
 //JS is synchronous - > 
+//asynchronous function is called at the last
 
 setTimeout(()=>{
     console.log("asynchronous");
